@@ -1151,7 +1151,7 @@ body {
  * responsive for larger than 992px screen
  */
 
-@media (min-width 419px) {
+@media (min-width: 419px) {
 
   /**
    * CUSTOM PROPERTY
@@ -1468,3 +1468,4 @@ body {
 
 
 }
+
